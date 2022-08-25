@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @kartikver15gr8
-- 👀 I’m interested in ...     programming,web development
-- 🌱 I’m currently learning ...  python and web development
-- 💞️ I’m looking to collaborate on ...  technical department,staff and want to present my skills along with polishing them
-- 📫 How to reach me ...  my email is vermakartikey786@gmail.com and linkedin : https://www.linkedin.com/in/kartikey-verma-7a372b20b/
-- 
+👋 Hi, I’m @Kartikey_Verma
 
-<!---
-kartikver15gr8/kartikver15gr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧡 I love being creative and bring efficiency to my work.
+Technology fascinates me so much, I love solving problems, building an optimized solution, and being creative in any task of mine is an obsession for me. I love reading books! learning new things, communicating with people, building network. 
+I always try to be productive and learn daily!
+
+👀 I’m an engineering student, pursuing my B.Tech with Information Technology from MITS college. Technologies like Blockchain & Web3, Data Science and ML, Fullstack development, Internet Of Things, and many more fascinates me. I also write blogs, and love communicating and interacting with people.
+
+🎓 I have skills like: 
+Full stack Web Development 💻
+Data Structures and Algorithms 📅
+Python, Java, JavaScript & C 
+Blogs & Content Writing 📝
+DBMS, OS, Computer Networks 
+Node.Js, Express.Js
+MongoDB 📊
+Problem Solving 🧠
+Git & GitHub 
