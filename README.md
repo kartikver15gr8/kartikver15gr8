@@ -24,6 +24,25 @@ I always try to be productive and learn daily!**
 **Problem Solving** 🧠
 **Git & GitHub** 
 
+### :man_technologist: Let's connect :
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/kartikey-verma-7a372b20b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@Kartikey_verma">
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
+  </a>
+  <a href="https://twitter.com/kvofficialx">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://kartikeyverma.super.site/">
+    <img src="https://img.shields.io/badge/Kartikey-red?style=for-the-badge&logo=peace&logoColor=white" alt="Developer Badge"/>
+  </a>
+  <a href="https://leetcode.com/vermakartikey786/">
+    <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
+  </a>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,20 +59,15 @@ I always try to be productive and learn daily!**
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="100" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="100" height="100"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C " width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva " width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma " width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij " width="100" height="100"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter " width="100" height="100"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry pi" alt="raspberry-pi " width="100" height="100"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind css" alt="tailwind css " width="100" height="100"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="vscode" alt="vscode " width="100" height="100"/>&nbsp;
 </div>
 
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/kartikey-verma-7a372b20b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@Kartikey_verma">
-    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
-  </a>
-  <a href="https://twitter.com/kvofficialx">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://kartikeyverma.super.site/">
-    <img src="https://img.shields.io/badge/Kartikey-red?style=for-the-badge&logo=peace&logoColor=white" alt="Developer Badge"/>
-  </a>
-</div>
+
