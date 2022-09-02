@@ -44,6 +44,9 @@ I always try to be productive and learn daily!**
   <a href="https://leetcode.com/vermakartikey786/">
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
   </a>
+  <a href="https://hashnode.com/@KvofficialX">
+    <img src="https://img.shields.io/badge/hashnode-darkyellow?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
+  </a>
 </div>
 
 ---
