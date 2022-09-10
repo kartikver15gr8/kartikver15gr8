@@ -83,4 +83,6 @@ I always try to be productive and learn daily!**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
 
