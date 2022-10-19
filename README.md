@@ -1,7 +1,5 @@
-<h1>
-  Hey!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I’m Kartikey☮
+<h1 align= "center">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Kartikey!">
 </h1>
 
 <div id="header" align="center">
@@ -48,8 +46,7 @@ I always try to be productive and learn daily!**
     <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
   </a>
 </div>
-
----
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -76,13 +73,21 @@ I always try to be productive and learn daily!**
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="vscode" alt="vscode " width="80" height="80"/>&nbsp;
 </div>
 
----
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 ### :fire: My Stats :
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=radical&custom_title=Languages"/></div>
+<br>
+<div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=kartikver15gr8&theme=radical" /></div>
+<br>
+<div align="center">
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=kartikver15gr8&theme=redical">
+</div>
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+</p>
 
