@@ -15,7 +15,7 @@ I always try to be productive and learn daily!**
 👀 **I’m an engineering student, pursuing my B.Tech with Information Technology from MITS college. Technologies like Blockchain & Web3, Data Science and ML, Fullstack development, Internet Of Things, and many more fascinates me. I also write blogs, and love communicating and interacting with people.**
 
 🎓 *I have skills like:* 
-**Full stack Web Development** 💻
+**Full stack Web Development!** 💻
 **Data Structures and Algorithms** 📅
 **Python, Java, JavaScript & C** 
 **Blogs & Content Writing** 📝
