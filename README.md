@@ -84,7 +84,6 @@
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=kartikver15gr8&theme=redical">
 </div>
 
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
