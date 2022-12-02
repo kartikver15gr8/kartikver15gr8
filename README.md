@@ -84,8 +84,6 @@
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=kartikver15gr8&theme=redical">
 </div>
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
