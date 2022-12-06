@@ -3,7 +3,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
 ### :man_technologist: About Me :
@@ -80,9 +80,6 @@
 <br>
 <div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=kartikver15gr8&theme=radical" /></div>
 <br>
-<div align="center">
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=kartikver15gr8&theme=redical">
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
