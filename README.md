@@ -51,25 +51,25 @@
 <div>
   <img src="https://dev.java/assets/images/java-logo-vert-blk.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://www.ritechpune.com/backend/courseicon/ReactJS.png" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma " width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij " width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter " width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry pi" alt="raspberry-pi " width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind css" alt="tailwind css " width="80" height="80"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="vscode" alt="vscode " width="80" height="80"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmU0btS1OrwmJU-LYK38GLiPA9naKRekVBjO6c6qQlFSuRReuWlZ7NLSTwukMbyyp_E0&usqp=CAU" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+  <img src="https://icon2.cleanpng.com/20190726/uli/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfe93fac2.9289112115641471986061.jpg" title="Solidity" alt="Solidity" width="80" height="80"/>&nbsp;
+  <img src="https://icon2.cleanpng.com/20180526/okf/kisspng-ethereum-t-shirt-cryptocurrency-bitcoin-blockchain-5b090829a2c4d9.1765357715273185696667.jpg" title="Ethereum"  alt="Ethereum" width="80" height="80"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="80" height="80"/>
+  <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" title="Python" **alt="Python" width="80" height="80"/>
+  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
+  <img src="https://files.gitter.im/ethereum/remix/h3Hj/thumb/remix_logo_light.png" title="Remix" alt="Remix " width="80" height="80"/>&nbsp;
+  <img src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" title="C" alt="C " width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="Canva" alt="Canva " width="80" height="80"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" title="figma" alt="figma " width="80" height="80"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/702/907/png-clipart-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle.png" title="Intellij" alt="Intellij " width="80" height="80"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express " width="80" height="80"/>&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1592585812650008579/8JavCOnE_400x400.png" title="Alchemy University" alt="Alchemy University" width="80" height="80"/>&nbsp;
+  <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" title="Tailwind css" alt="tailwind css " width="80" height="80"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/metamask-logo-png-transparent.png" title="MetaMask" alt="MetaMask" width="80" height="80"/>&nbsp;
 </div>
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
