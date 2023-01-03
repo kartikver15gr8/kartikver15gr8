@@ -82,5 +82,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
-
-![snake gif](https://github.com/kartikver15gr8/kartikver15gr8/blob/output/github-contribution-grid-snake.gif)
