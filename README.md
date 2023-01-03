@@ -77,7 +77,6 @@
 ### :fire: My Stats :
 
 <div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=radical&custom_title=Languages"/></div>
-![snake gif](https://github.com/kartikver15gr8/kartikver15gr8/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
