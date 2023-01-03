@@ -77,11 +77,10 @@
 ### :fire: My Stats :
 
 <div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=radical&custom_title=Languages"/></div>
-<br>
-<div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=kartikver15gr8&theme=radical" /></div>
-<br>
+![snake gif](https://github.com/kartikver15gr8/kartikver15gr8/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
+![snake gif](https://github.com/kartikver15gr8/kartikver15gr8/blob/output/github-contribution-grid-snake.gif)
