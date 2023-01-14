@@ -81,3 +81,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
+
+[![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvofficialx)](https://holopin.io/@kvofficialx)
