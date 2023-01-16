@@ -79,7 +79,7 @@ return Excellence;
   <img src="https://e7.pngegg.com/pngimages/702/907/png-clipart-intellij-idea-integrated-development-environment-computer-software-jetbrains-java-others-miscellaneous-angle.png" title="Intellij" alt="Intellij " width="80" height="80"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express " width="80" height="80"/>&nbsp;
   <img src="https://pbs.twimg.com/profile_images/1592585812650008579/8JavCOnE_400x400.png" title="Alchemy University" alt="Alchemy University" width="80" height="80"/>&nbsp;
-  <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" title="Tailwind css" alt="tailwind css " width="80" height="80"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/91731654/212694244-f0de3a3b-2de2-4a2b-a2e6-3ad085463582.png" title="Tailwind css" alt="tailwind css " width="80" height="80"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/metamask-logo-png-transparent.png" title="MetaMask" alt="MetaMask" width="80" height="80"/>&nbsp;
 </div>
 
@@ -87,7 +87,17 @@ return Excellence;
 
 ### :fire: My Stats :
 
-<div align="center"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=radical&custom_title=Languages"/></div>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=kartikver15gr8&theme=great-gatsby&show_icons=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=github_dark"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kartikver15gr8&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
