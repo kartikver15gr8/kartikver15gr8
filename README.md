@@ -6,6 +6,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
+``` JavaScript
+while(Coffee){
+   Code;
+   if(!Coffee){
+      Coffee.refill();
+      continue;
+   }
+}
+return Excellence;
+```
+
 ### :man_technologist: About Me :
 **I am a Full Stack Developer, and diving deeper into WEB3.0!** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**.**
 
