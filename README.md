@@ -7,14 +7,14 @@
 </div>
 
 ``` JavaScript
-while(Coffee){
+**while(Coffee){
    Code;
    if(!Coffee){
       Coffee.refill();
       continue;
    }
 }
-return Excellence;
+return Excellence;**
 ```
 
 ### :man_technologist: About Me :
