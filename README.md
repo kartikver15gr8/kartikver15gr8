@@ -43,7 +43,7 @@ return Excellence
   <a href="https://medium.com/@Kartikey_verma">
     <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
   </a>
-  <a href="https://twitter.com/kvofficialx">
+  <a href="https://twitter.com/KartikeyStack">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://kartikeyverma.super.site/">
