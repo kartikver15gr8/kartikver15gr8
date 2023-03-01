@@ -49,7 +49,7 @@ return Excellence
   <a href="https://kartikeyverma.super.site/">
     <img src="https://img.shields.io/badge/Kartikey-red?style=for-the-badge&logo=peace&logoColor=white" alt="Developer Badge"/>
   </a>
-  <a href="https://hashnode.com/@KvofficialX">
+  <a href="https://hashnode.com/@KartikeyVerma">
     <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
   </a>
 </div>
