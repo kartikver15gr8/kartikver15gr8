@@ -35,7 +35,7 @@ return Excellence
 **Problem Solving** 🧠
 **Git & GitHub** 
 
-### :man_technologist: Let's connect :
+### :man_technologist: Find me here! :
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/kartikey-verma-7a372b20b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
