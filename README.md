@@ -103,3 +103,6 @@ return Excellence
 [![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikver15gr8&theme=merko)](https://github.com/kartikver15gr8/github-readme-activity-graph)
 
 [![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvofficialx)](https://holopin.io/@kvofficialx)
+
+[Resume]()
+[Karitkey Verma CV.pdf](https://github.com/kartikver15gr8/kartikver15gr8/files/11148377/Karitkey.Verma.CV.pdf)
