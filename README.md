@@ -100,7 +100,7 @@ return Excellence
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-[![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikver15gr8&theme=merko)](https://github.com/kartikver15gr8/github-readme-activity-graph)
+[![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikver15gr8&theme=react-dark)](https://github.com/kartikver15gr8/github-readme-activity-graph)
 
 [![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvofficialx)](https://holopin.io/@kvofficialx)
 
