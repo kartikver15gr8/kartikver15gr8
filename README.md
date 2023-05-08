@@ -3,8 +3,16 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img src="https://user-images.githubusercontent.com/91731654/236767179-4de5e701-03de-4453-aafa-008ef6c40fb6.png" width="300"/>
+  </tr>
+</table>
 </div>
+
 
 ``` JavaScript
 while(Coffee){
@@ -94,11 +102,13 @@ return Excellence
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kartikver15gr8&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kartikver15gr8&&theme=dark&show_icons=true)](https://git.io/streak-stats" />
+   
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
+
 
 [![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kartikver15gr8&theme=react-dark)](https://github.com/kartikver15gr8/github-readme-activity-graph)
 
