@@ -112,5 +112,3 @@ return Excellence
 
 
 [![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvofficialx)](https://holopin.io/@kvofficialx)
-
-[RESUME](https://github.com/kartikver15gr8/kartikver15gr8/files/11148377/Karitkey.Verma.CV.pdf)
