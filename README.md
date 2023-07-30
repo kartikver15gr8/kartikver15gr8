@@ -71,6 +71,7 @@ return Excellence
   <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
   <img src="https://icon2.cleanpng.com/20190726/uli/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfe93fac2.9289112115641471986061.jpg" title="Solidity" alt="Solidity" width="80" height="80"/>&nbsp;
   <img src="https://icon2.cleanpng.com/20180526/okf/kisspng-ethereum-t-shirt-cryptocurrency-bitcoin-blockchain-5b090829a2c4d9.1765357715273185696667.jpg" title="Ethereum"  alt="Ethereum" width="80" height="80"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/780/57/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
